@@ -10,12 +10,12 @@ Jogo criado para ganhar conhecimento e se divertir.
 * Construct3, Firebase.
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 <linha de comando>
 ```
 
 ## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+* Yeah
 
 ## :dart: Status do projeto
+* Yeah
