@@ -11,10 +11,10 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 
 ## :books: Prints do jogo
 
-*Ranking Banco de dados
+* Ranking Banco de dados
 ![Captura de tela 2025-04-30 131004](https://github.com/user-attachments/assets/c124198c-f53e-4074-afb6-971ce8341df0)
 
-*Jogando
+* Jogando
 
 
 
