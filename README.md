@@ -7,6 +7,7 @@
 ## :rocket: pizzaioloVSketshup
 
 * Em "PizzaiolovsKetchup", você assume o papel de um pizzaiolo habilidoso que precisa derrotar uma horda de ketchups malignos que querem te atacar, se proteja com as pizzas.
+* Derrotar todos os ketchups e se salvar. Com sua habilidade e criatividade, você pode se tornar o melhor pizzaiolo do mundo e derrotar os ketchups de uma vez por todas!
 
 Clique aqui para jogar
  [(https://rosenight.itch.io/pizzaiolovsketshup)](https://rosenight.itch.io/pizzaiolovsketshup)
