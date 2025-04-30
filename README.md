@@ -9,8 +9,16 @@
 * Você é um pizzaiolo que os ketshups estão atacando, se defenda
 Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https://rosenight.itch.io/pizzaiolovsketshup)
 
-## :books: Banco de dados
-* <b>Prints 1</b> 
+## :books: Prints do jogo
+
+*Ranking Banco de dados
+![Captura de tela 2025-04-30 131004](https://github.com/user-attachments/assets/c124198c-f53e-4074-afb6-971ce8341df0)
+
+*Jogando
+
+
+
+
 
 
 ## :wrench: Plataformas utilizadas
@@ -19,5 +27,5 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 
 ## :soon: Materiais utilizados
 
-Materiais -> 
+* Materiais -> 
 
