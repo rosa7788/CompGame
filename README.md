@@ -3,19 +3,18 @@
 
 ## :memo: Descrição
 Jogo criado para ganhar conhecimento e se divertir.
-## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: Personagem principal é um pizzaiolo e ele tem que deter os ketshups das pizzas
+## :books: Jogo
+* <b>Jogo 1</b>: Você é um pizzaiolo e tem que deter os inimigos da pizza.
 
 ## :wrench: Tecnologias utilizadas
-* Construct3, Firebase.
+* Construct3, Firebase, itch.io.
 
 ## :rocket: Rodando o projeto
 ```
-<linha de comando>
+<https://rosenight.itch.io/pizzaiolovsketshup>
 ```
 
-## :soon: Implementação futura
-* Yeah
+## :soon: Materiais utilizados
 
 ## :dart: Status do projeto
 * Yeah
