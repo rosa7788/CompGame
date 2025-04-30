@@ -8,7 +8,8 @@
 
 * Você é um pizzaiolo que os ketshups estão atacando, se defenda
 
-Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https://rosenight.itch.io/pizzaiolovsketshup)
+Clique aqui para jogar
+-> [(https://rosenight.itch.io/pizzaiolovsketshup)](https://rosenight.itch.io/pizzaiolovsketshup)
 
 ## :books: Prints do jogo
 
@@ -18,10 +19,10 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 * Jogando
 ![Captura de tela 2025-04-30 131402](https://github.com/user-attachments/assets/c1e37ba5-7363-4751-8d0e-10d1ec5c2f21)
 
-*Atacando
+* Atacando
 ![Captura de tela 2025-04-30 144047](https://github.com/user-attachments/assets/31f45980-3ad2-4196-b021-08b5f54668bd)
 
-*Perdendo
+* Perdendo
 ![Captura de tela 2025-04-30 144055](https://github.com/user-attachments/assets/7b9506d2-6585-4f3a-97b6-9fa214522d9e)
 
 ## :wrench: Plataformas utilizadas
@@ -30,16 +31,16 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 
 ## :soon: Materiais utilizados
 
-*Pizza
+* Pizza
 ![peperoni](https://github.com/user-attachments/assets/afcfcc66-e1f1-479d-9ff5-f033b7c60aed)
 
-*Pizzaiolo
+* Pizzaiolo
 ![image](https://github.com/user-attachments/assets/30764bd8-ce21-4c07-adb5-3deeab3e66b8)
 
-*Background
+* Background
 ![image](https://github.com/user-attachments/assets/40fd8da4-ca6d-46cf-a1ea-e70c4bd748e2)
 
-*Ketshup
+* Ketshup
 ![image](https://github.com/user-attachments/assets/71562d93-33e4-4fdd-a8e1-1d9c615488d2)
 
 
