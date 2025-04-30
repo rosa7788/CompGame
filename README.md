@@ -2,7 +2,7 @@
 <h1 align="center">:file_cabinet: CompGame </h1>
 
 ## :dart: Como jogar?
-* O jogo utiliza as setas padrões (⬆️⬇️➡️⬅️) para locomover o pizzaiolo, os ketshups atacam e para se defender tem que atacar com as pizzas, apertando na tecla espaço (space). Derrotando todas as pizzas, é dada a vitória. (Muito difícil de ganhar)
+* O jogo utiliza as setas padrões (⬆️⬇️➡️⬅️) para locomover o pizzaiolo, os ketshups atacam e para se defender tem que atacar com as pizzas, apertando no mouse. Derrotando todas as pizzas, é dada a vitória. (Muito difícil de ganhar)
 
 ## :rocket: pizzaioloVSketshup
 
@@ -15,11 +15,13 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 ![Captura de tela 2025-04-30 131004](https://github.com/user-attachments/assets/c124198c-f53e-4074-afb6-971ce8341df0)
 
 * Jogando
+![Captura de tela 2025-04-30 131402](https://github.com/user-attachments/assets/c1e37ba5-7363-4751-8d0e-10d1ec5c2f21)
 
+*Atacando
+![Captura de tela 2025-04-30 144047](https://github.com/user-attachments/assets/31f45980-3ad2-4196-b021-08b5f54668bd)
 
-
-
-
+*Perdendo
+![Captura de tela 2025-04-30 144055](https://github.com/user-attachments/assets/7b9506d2-6585-4f3a-97b6-9fa214522d9e)
 
 ## :wrench: Plataformas utilizadas
 * Construct3, Firebase, itch.io.
@@ -27,5 +29,13 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 
 ## :soon: Materiais utilizados
 
-* Materiais -> 
+*Pizza
+![peperoni](https://github.com/user-attachments/assets/afcfcc66-e1f1-479d-9ff5-f033b7c60aed)
+
+*Pizzaiolo
+
+*Background
+
+*Ketshup
+
 
