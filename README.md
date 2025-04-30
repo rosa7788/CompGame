@@ -33,9 +33,16 @@ Clique aqui para jogar -> [(https://rosenight.itch.io/pizzaiolovsketshup)](https
 ![peperoni](https://github.com/user-attachments/assets/afcfcc66-e1f1-479d-9ff5-f033b7c60aed)
 
 *Pizzaiolo
+![image](https://github.com/user-attachments/assets/30764bd8-ce21-4c07-adb5-3deeab3e66b8)
 
 *Background
+![image](https://github.com/user-attachments/assets/40fd8da4-ca6d-46cf-a1ea-e70c4bd748e2)
 
 *Ketshup
+![image](https://github.com/user-attachments/assets/71562d93-33e4-4fdd-a8e1-1d9c615488d2)
+
+
+
+
 
 
