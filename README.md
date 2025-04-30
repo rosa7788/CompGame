@@ -10,9 +10,9 @@ Jogo criado para ganhar conhecimento e se divertir.
 * Construct3, Firebase, itch.io.
 
 ## :rocket: Rodando o projeto
-```
-<https://rosenight.itch.io/pizzaiolovsketshup>
-```
+
+Clique aqui para jogar [(https://rosenight.itch.io/pizzaiolovsketshup)](https://rosenight.itch.io/pizzaiolovsketshup)
+
 
 ## :soon: Materiais utilizados
 
